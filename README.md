@@ -1,2 +1,1 @@
-# helllo-world
-ssshhh
+print("hello world")
